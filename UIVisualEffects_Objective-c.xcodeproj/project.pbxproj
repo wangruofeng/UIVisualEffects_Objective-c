@@ -13,6 +13,7 @@
 		0E625D8D1C37CDF40026A6F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E625D8B1C37CDF40026A6F9 /* Main.storyboard */; };
 		0E625D8F1C37CDF40026A6F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E625D8E1C37CDF40026A6F9 /* Assets.xcassets */; };
 		0E625D921C37CDF40026A6F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E625D901C37CDF40026A6F9 /* LaunchScreen.storyboard */; };
+		0E625D9B1C37CF220026A6F9 /* UIVisualEffectView+Touches.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E625D9A1C37CF220026A6F9 /* UIVisualEffectView+Touches.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		0E625D8E1C37CDF40026A6F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E625D911C37CDF40026A6F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E625D931C37CDF40026A6F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E625D991C37CF220026A6F9 /* UIVisualEffectView+Touches.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIVisualEffectView+Touches.h"; sourceTree = "<group>"; };
+		0E625D9A1C37CF220026A6F9 /* UIVisualEffectView+Touches.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIVisualEffectView+Touches.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				0E625D861C37CDF40026A6F9 /* AppDelegate.m */,
 				0E625D881C37CDF40026A6F9 /* ViewController.h */,
 				0E625D891C37CDF40026A6F9 /* ViewController.m */,
+				0E625D991C37CF220026A6F9 /* UIVisualEffectView+Touches.h */,
+				0E625D9A1C37CF220026A6F9 /* UIVisualEffectView+Touches.m */,
 				0E625D8B1C37CDF40026A6F9 /* Main.storyboard */,
 				0E625D8E1C37CDF40026A6F9 /* Assets.xcassets */,
 				0E625D901C37CDF40026A6F9 /* LaunchScreen.storyboard */,
@@ -152,6 +157,7 @@
 				0E625D8A1C37CDF40026A6F9 /* ViewController.m in Sources */,
 				0E625D871C37CDF40026A6F9 /* AppDelegate.m in Sources */,
 				0E625D841C37CDF40026A6F9 /* main.m in Sources */,
+				0E625D9B1C37CF220026A6F9 /* UIVisualEffectView+Touches.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
