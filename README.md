@@ -1,7 +1,7 @@
 # UIVisualEffects_Objective-c
 > This is a UIVisualEffects Objective-c implementation
 
-> original link:[UIVisualEffects](https://github.com/ide/UIVisualEffects)
+> Original link:[UIVisualEffects](https://github.com/ide/UIVisualEffects)
 
 
 UIVisualEffects
